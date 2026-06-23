@@ -40,5 +40,7 @@ Identifier les pays présentant des difficultés d'accès à l'eau potable et d�
 - Présentation (presentation_eau_potable.pdf)
 - Dashboard interactif Tableau Public : https://public.tableau.com/shared/YN6CDCPSJ?:display_count=n&:origin=viz_share_link
 
+---
+
 ## Auteur
 Yoann De Cler
