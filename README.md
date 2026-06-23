@@ -7,7 +7,7 @@ Identifier les pays présentant des difficultés d'accès à l'eau potable et d�
 
 ## Travail réalisé
 - Analyse du besoin métier et définition des indicateurs de suivi
-- ![Blueprint](visuel_blueprint.jpeg)
+- ![Blueprint](images/visuel_blueprint.jpeg)
 - Contrôle qualité et préparation des données
 - Analyse exploratoire des données (EDA)
 - Analyse comparative des pays selon plusieurs indicateurs d'accès à l'eau potable
