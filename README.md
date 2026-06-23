@@ -1,4 +1,4 @@
-# etude-eau-potable
+# Etude sur l'eau potable
 
 ## Objectif
 Identifier les pays présentant des difficultés d'accès à l'eau potable et déterminer ceux pour lesquels une intervention est la plus pertinente au regard des indicateurs disponibles
