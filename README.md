@@ -1,46 +1,70 @@
-# Etude sur l'eau potable
+# 💧 Étude sur l'accès à l'eau potable
 
-## Objectif
-Identifier les pays présentant des difficultés d'accès à l'eau potable et déterminer ceux pour lesquels une intervention est la plus pertinente au regard des indicateurs disponibles
-
----
-
-## Travail réalisé
-- Analyse du besoin métier et définition des indicateurs de suivi
-- ![Blueprint](images/visuel_blueprint.jpg)
-- Contrôle qualité et préparation des données
-- Analyse exploratoire des données (EDA)
-- Analyse comparative des pays selon plusieurs indicateurs d'accès à l'eau potable
-- Conception de tableaux de bord interactifs sous Tableau
-- Création d'une histoire Tableau pour faciliter la prise de décision
-- Data visualisation et storytelling
-- Identification des pays prioritaires d'intervention
-- Formulation de recommandations stratégiques pour l'allocation des financements
+## 🎯 Objectif
+Identifier les pays rencontrant des difficultés d'accès à l'eau potable afin d'aider une ONG à prioriser ses interventions et l'allocation de ses financements.
 
 ---
 
-## Outils
+## 📋 Cadrage du projet
+
+- Analyse du besoin métier
+- Sélection des indicateurs pertinents
+- Conception d'un blueprint du futur dashboard
+- Définition de trois niveaux d'analyse :
+  - Mondial
+  - Régional
+  - National
+
+![Blueprint](images/visuel_blueprint.jpg)
+
+---
+
+## 🧹 Préparation des données
+
+- Contrôle qualité des données
+- Harmonisation des pays entre plusieurs sources
+- Traitement des incohérences et valeurs manquantes
+- Fusion des datasets
+- Construction d'un jeu de données consolidé
+
+---
+
+## 📊 Analyse et visualisation
+
+- Analyse comparative des pays
+- Étude des indicateurs d'accès à l'eau potable
+- Analyse des indicateurs sanitaires et démographiques
+- Création de tableaux de bord interactifs
+- Storytelling et aide à la décision
+
+![Vue mondiale](images/vue_mondiale.png)
+
+---
+
+## 📈 Résultats
+
+- Visualisation des disparités d'accès à l'eau potable
+- Identification des zones prioritaires
+- Analyse multicritère des pays
+- Support à la prise de décision pour l'allocation des ressources
+
+---
+
+## 🛠️ Outils
+
+- Python (Pandas)
 - Tableau Desktop
 - Tableau Public
-- Excel / CSV
+- CSV
 
 ---
 
-## Résultats
-- Création d'un tableau de bord interactif structuré en 3 niveaux d'analyse :
-  - Vue mondiale
-  - Vue régionale
-  - Vue nationale
-- Identification des pays présentant les plus fortes difficultés d'accès à l'eau potable
-- Aide à la priorisation des interventions de l'ONG selon différents indicateurs socio-économiques et sanitaires
+## 🔗 Dashboard interactif
+
+Dashboard Tableau Public : [Lien vers le dashboard]
 
 ---
 
-## Documents
-- Présentation (presentation_eau_potable.pdf)
-- Dashboard interactif Tableau Public : https://public.tableau.com/shared/YN6CDCPSJ?:display_count=n&:origin=viz_share_link
+## 👤 Auteur
 
----
-
-## Auteur
 Yoann De Cler
