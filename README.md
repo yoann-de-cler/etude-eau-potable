@@ -37,8 +37,6 @@ Identifier les pays rencontrant des difficultés d'accès à l'eau potable afin 
 - Création de tableaux de bord interactifs
 - Storytelling et aide à la décision
 
-![Vue mondiale](images/vue_mondiale.png)
-
 ---
 
 ## 📈 Résultats
@@ -61,7 +59,7 @@ Identifier les pays rencontrant des difficultés d'accès à l'eau potable afin 
 
 ## 🔗 Dashboard interactif
 
-Dashboard Tableau Public : [Lien vers le dashboard]
+Dashboard Tableau Public : [[Lien vers le dashboard]](https://public.tableau.com/views/Etudesurleaupotable_17725436553890/Histoire1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
